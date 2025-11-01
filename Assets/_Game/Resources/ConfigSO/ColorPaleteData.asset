@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6800d5192cdde245b6c6717335b0486, type: 3}
+  m_Name: ColorPaleteData
+  m_EditorClassIdentifier: 
+  ColorPalete:
+    _serializedList:
+    - Key: PathSuccess
+      Value: {r: 0.86666673, g: 0.9215687, b: 0.96470594, a: 1}
+    - Key: PathFaild
+      Value: {r: 0.909804, g: 0.79215693, b: 0.79215693, a: 1}
+    - Key: Red
+      Value: {r: 0.8867924, g: 0.33296537, b: 0.33296537, a: 1}
+    - Key: Blue
+      Value: {r: 0.34996784, g: 0.5922154, b: 0.93207544, a: 1}
